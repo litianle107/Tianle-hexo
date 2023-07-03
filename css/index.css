@@ -312,6 +312,9 @@ template {
     padding: 8px 34px;
     text-align: center;
 }
+#travellings {
+    padding: 0 14px 0 0;
+}
 
 
 /* PC菜单栏美化 */
